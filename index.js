@@ -10,7 +10,7 @@ let messageEl=document.getElementById("message-el");
 let sumEl=document.querySelector(".sum-el"); 
 let cardsEl=document.querySelector("#cards-el");
 let player={
-    Name:"Sidhartha",
+    Name:"Supriya",
     Chips:145,
     sayHello:function(){
         console.log("hey player");
